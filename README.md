@@ -10,4 +10,7 @@ Haar is faster buy MTCNN is more accurate.
 Here is how it works
 ![enter image description here](https://github.com/Lurrobert/Face_detection_OpenCv-Haar/blob/master/video.gif?raw=true)
 
+
 You can also see jupyter for more detailed version. I tried things there and then wrote beatiful version in Pycharm
+
+![enter image description here](https://github.com/Lurrobert/Face_detection_OpenCv-Haar/blob/master/jupyter.gif?raw=true)
